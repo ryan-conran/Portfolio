@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://blog-www.pods.com/wp-content/uploads/2020/07/Feature-Home-Office-GEtty-Resized.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+navbar-brand {
+    margin: left;
+}
+
+.line-divider {
+    height: 1px;
+    margin-bottom: 20px;
+    margin: 10px auto;
+    background-color: black;
+}
+
+.Photo {
+    margin: 10px 10px 10px 0px;
+    float: left;
+}
+
+.container {
+    border-width: 5px;
+    border-color: black;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 20px 20px 20px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-type {
+    height: 20px;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
