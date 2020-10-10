@@ -11,7 +11,15 @@ Project Requirements:
 - Name image and Bio included in applicable pages
 -Utilizes Bootstrap Components and Grid System
 
-Screenshots of Deployed Project
+Screenshots of Deployed Project:
+
+![](Images/FullPage.png)
+
+![](Images/Contact400.png)
+
+![](images/Index400.png)
+
+![](images/Portfolio400.png)
 
 
 
