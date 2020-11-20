@@ -1,3 +1,11 @@
+#nav-name {
+    position: relative;
+}
+
+#page-links {
+    position: relative;  
+}
+
 body {
     background-image: url(https://blog-www.pods.com/wp-content/uploads/2020/07/Feature-Home-Office-GEtty-Resized.jpg);
     background-size: cover;
@@ -13,18 +21,19 @@ body {
 }
 
 .Photo {
-    max-width: ;
+    max-width: 20%;
     margin: 10px 10px 0px 0px;
     float: left;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1200px;
     border-width: 5px;
     border-color: black;
-    margin-top: 30px;
     margin-left: 30px;
     margin-bottom: 500px;
+    margin: 0 auto;
+    margin-top: 80px;
     background-color: white;
     padding: 20px 20px 20px;
 }
@@ -50,11 +59,12 @@ p {
 
 .footer-type {
     height: 40px;
-    background-color: white;
+    background-color: rgb(226, 226, 226);
     width: 100%;
     padding-top: 5px;
     text-align: center;
     position: relative;
+    margin-top: 350px;
     bottom: 0;
 }
 
